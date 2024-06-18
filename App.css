@@ -1,0 +1,7 @@
+.pitch {
+  position: relative !important;
+
+  .drop {
+    position: absolute !important;
+  }
+}
